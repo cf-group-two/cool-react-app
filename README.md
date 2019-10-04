@@ -26,7 +26,7 @@
 - Unique names for all different outpit artifatcs
 ![Output Artifact Bundle](https://github.com/gpadmapriya/cool-react-app/blob/master/OutputArtifacts.png)
 
-![Cloud Formation](https://github.com/gpadmapriya/cool-react-app/blob/master/OutputArtifacts.png)
+![Cloud Formation](https://github.com/cf-group-two/cool-react-app/blob/master/Screen%20Shot%202019-10-04%20at%2011.52.01%20AM.png)
 
 ### Credits and Contributions
 - Jack Daniel Kinne
